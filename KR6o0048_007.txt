@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:48.422684
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 佛說立世阿毘曇論
 #+PROPERTY: CBETA_ID T32n1644
 #+PROPERTY: ID KR6o0048
@@ -17,7 +17,7 @@
 ¶
 陳西印度三藏真諦譯¶
 
-21受生品
+* 21受生品
 :PROPERTIES:
 :head: 受生品第二十一
 :END:
@@ -393,7 +393,7 @@
 如是次第往生乃至非想非非想。生於彼已¶
 得般涅槃。是義佛世尊說。如是我聞。¶
 
-22壽量品
+* 22壽量品
 :PROPERTIES:
 :head: 壽量品第二十二
 :END:

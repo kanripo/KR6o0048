@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:48.512443
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 佛說立世阿毘曇論
 #+PROPERTY: CBETA_ID T32n1644
 #+PROPERTY: ID KR6o0048
@@ -16,7 +16,7 @@
 ¶
 陳西印度三藏真諦譯¶
 
-25大三災品
+* 25大三災品
 :PROPERTIES:
 :head: 大三災火災品第二十五
 :END:
