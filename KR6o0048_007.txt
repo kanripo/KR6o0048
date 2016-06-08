@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:48.422684
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 佛說立世阿毘曇論
 #+PROPERTY: CBETA_ID T32n1644
 #+PROPERTY: ID KR6o0048
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1644
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0048_T_000-0173a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0048_T_007-0202a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 佛說立世阿毘曇論卷第七¶
+佛說立世阿毘曇論卷第七¶
 ¶
 陳西印度三藏真諦譯¶
 
-21受生品
-:PROPERTIES:
-:head: 受生品第二十一
-:END:
-¶
+* 受生品第二十一¶
 
 造十惡業道最極重者。生大阿毘止地獄。若¶
 次造輕惡次生餘輕地獄。若復輕者次生閻¶
@@ -393,11 +388,7 @@
 如是次第往生乃至非想非非想。生於彼已¶
 得般涅槃。是義佛世尊說。如是我聞。¶
 
-22壽量品
-:PROPERTIES:
-:head: 壽量品第二十二
-:END:
-¶
+* 壽量品第二十二¶
 
 佛世尊說人中二萬歲。是阿毘止獄一日一¶
 夜。由此日夜三十日為一月。十二月為一年。¶
